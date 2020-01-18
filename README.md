@@ -5,3 +5,4 @@ The goal is to implement a binary search. The following variations have been use
 
 1. In Python using a recursive function.
 2. In JavaScript using a recursive function.
+3. In JavaScript using iterative approach.
